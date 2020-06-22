@@ -1,0 +1,19 @@
+body{
+	background-color: blue;
+}
+h1{
+	text-align: center;
+	text-decoration: underline;
+	font-size: 100px;
+}
+img{
+	width: auto;
+	height: 300px;
+	float: left;
+	border: 10% solid black;
+	margin:2.0%;
+}
+.jumbotron i{
+	display: block;
+	text-align: center;
+}
